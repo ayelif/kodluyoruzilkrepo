@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://academy.patika.dev/tr/dashboard) Front-End Eğitimi
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-git clone https://github.com/cengizcnataraci/kodluyoruzilkrepo.git
+git clone https://github.com/ayelif/kodluyoruzilkrepo.git
 
 ## Usage 
 
